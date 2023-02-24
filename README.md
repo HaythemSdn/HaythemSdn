@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Haythem_Sdn</h1>
 <h3 align="center">A Front-end developer and Ethical hacking enthusiast</h3>
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<img align="right" alt="Coding" width="450" height="285" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="right" alt="Coding" width="400" height="285" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haythemsdn" alt="haythemsdn" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce web site**
