@@ -1,4 +1,4 @@
-<img alt="Header" src="https://cdn-images-1.medium.com/max/1200/1*ocx1YZ-_E1-j9Mf6OPp78Q.gif">
+
 
 <h1 align="center">Hi 👋, I'm Haythem_Sdn</h1>
 <h3 align="center">Full-stack developer: Because choosing between frontend and backend is like choosing a favorite child 👶💻</h3>
@@ -7,8 +7,8 @@
 <div align="center">
   <img align="right" alt="Coding" width="400" height="285" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 </div>
-
 <p align="left"> 
+<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=haythemsdn&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="haythemsdn" />
   </a> 
@@ -69,10 +69,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haythemsdn&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haythemsdn&theme=radical&hide_border=false" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=haythemsdn&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haythemsdn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
